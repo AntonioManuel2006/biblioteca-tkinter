@@ -1,0 +1,15 @@
+# Dependencias del proyecto
+
+# GUI
+customtkinter==5.2.1 # app de escritorio
+Pillow==10.1.0 #Para prodesado de imagenes
+
+# Para compilar a . exe
+pyinstaller==6.3.0
+
+# Otras dependencias
+platformdirs
+jaraco.text
+importlib-resources
+importlib-metadata
+packaging
